@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gavanabanana
-- 👀 I’m interested in Finance, Data science
-- 🌱 I’m currently learning SQL, puthon, R
+- 👋 Hi, I’m @KydyrIskender
+- 👀 I’m interested in Finance, and system design
+- 🌱 I’m currently learning SQL, puthon, 
 - 💞️ I’m looking to collaborate on Quantitative Finance
 - 📫 How to reach me ...
 
